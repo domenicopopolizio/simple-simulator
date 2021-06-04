@@ -3,7 +3,7 @@
     <div class="simulator" v-if="ready">
       
       <div @click="act" class="circuit-container"> 
-        <h3 style="padding: 1rem"> Draw Area </h3>
+        <h3 style="padding: 1rem"> Drawing Area </h3>
         <svg class="cables">
             <line v-for="(line, i) in lines" :key="line.id" 
             :x1="line.p1.x" :y1="line.p1.y" :x2="line.p2.x" :y2="line.p2.y"
