@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   preserveAspectRatio="xMidYMid meet"
+   viewBox="0 0 640 640"
+   width="640"
+   height="640"
+   id="svg43"
+   sodipodi:docname="voltage.svg"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)">
+  <metadata
+     id="metadata47">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     id="namedview45"
+     showgrid="false"
+     inkscape:zoom="1.575"
+     inkscape:cx="320"
+     inkscape:cy="320"
+     inkscape:window-x="-8"
+     inkscape:window-y="315"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg43"
+     inkscape:document-rotation="0" />
+  <defs
+     id="defs11">
+    <path
+       d="M137.11 272.67L0 272.67"
+       id="b192CTnL9l" />
+    <path
+       d="M640 272.67L502.89 272.67"
+       id="e4mjxXY6Ot" />
+    <path
+       d="M505.29 272.67C505.29 373.76 422.27 455.83 320 455.83C217.73 455.83 134.71 373.76 134.71 272.67C134.71 171.59 217.73 89.52 320 89.52C422.27 89.52 505.29 171.59 505.29 272.67Z"
+       id="fb2MktvxE" />
+    <linearGradient
+       id="gradientd1rYOLPMdt"
+       gradientUnits="userSpaceOnUse"
+       x1="320"
+       y1="89.52"
+       x2="320"
+       y2="455.83">
+      <stop
+         style="stop-color: #00ffea;stop-opacity: 1"
+         offset="0%"
+         id="stop5" />
+      <stop
+         style="stop-color: #0cacff;stop-opacity: 1"
+         offset="100%"
+         id="stop7" />
+    </linearGradient>
+    <path
+       d="M493.8 272.67L152.62 272.67"
+       id="i4z8H7x6gg" />
+  </defs>
+  <g
+     id="g41"
+     transform="translate(0,47.325)">
+    <g
+       id="g39">
+      <g
+         id="g17">
+        <g
+           id="g15">
+          <use
+             xlink:href="#b192CTnL9l"
+             opacity="1"
+             fill-opacity="0"
+             stroke="#000000"
+             stroke-width="48"
+             stroke-opacity="1"
+             id="use13"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+        </g>
+      </g>
+      <g
+         id="g23">
+        <g
+           id="g21">
+          <use
+             xlink:href="#e4mjxXY6Ot"
+             opacity="1"
+             fill-opacity="0"
+             stroke="#000000"
+             stroke-width="48"
+             stroke-opacity="1"
+             id="use19"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+        </g>
+      </g>
+      <g
+         id="g31">
+        <use
+           xlink:href="#fb2MktvxE"
+           opacity="1"
+           fill="url(#gradientd1rYOLPMdt)"
+           id="use25"
+           style="fill:url(#gradientd1rYOLPMdt)"
+           x="0"
+           y="0"
+           width="100%"
+           height="100%" />
+        <g
+           id="g29">
+          <use
+             xlink:href="#fb2MktvxE"
+             opacity="1"
+             fill-opacity="0"
+             stroke="#000000"
+             stroke-width="38"
+             stroke-opacity="1"
+             id="use27"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+        </g>
+      </g>
+      <g
+         id="g37">
+        <g
+           id="g35">
+          <use
+             xlink:href="#i4z8H7x6gg"
+             opacity="1"
+             fill-opacity="0"
+             stroke="#000000"
+             stroke-width="48"
+             stroke-opacity="1"
+             id="use33"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <rect
+     style="fill:#000000;fill-opacity:0.985507;fill-rule:evenodd;stroke:#00000f;stroke-width:0.1;stroke-linejoin:round;stroke-opacity:0.941176"
+     id="rect30"
+     width="22.857143"
+     height="90.793648"
+     x="551.74603"
+     y="105.07937" />
+  <rect
+     style="fill:#000000;fill-opacity:0.985507;fill-rule:evenodd;stroke:#00000f;stroke-width:0.1;stroke-linejoin:round;stroke-opacity:0.941176"
+     id="rect30-8"
+     width="22.857143"
+     height="90.793648"
+     x="146.1604"
+     y="-606.41364"
+     transform="rotate(89.43646)" />
+</svg>
